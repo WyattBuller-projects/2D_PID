@@ -2,7 +2,7 @@
 
 A numerical simulation of a discrete-time PID controller tracking a randomly moving target in two-dimensional space. The simulation models a chaser attempting to follow a target whose velocity changes randomly over time, evaluating 1,000 combinations of PID gains and ranking their performance using Integrated Squared Tracking Error (IST).
 
----
+-
 
 ## Overview
 
